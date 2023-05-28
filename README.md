@@ -1,4 +1,4 @@
-# Repository Name
+# Classifying Bees using Deep Learning
 
 This repository contains my work carried out during my second-year internship at ENSEEIHT, my engineering school. 
 
